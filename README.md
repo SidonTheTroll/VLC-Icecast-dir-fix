@@ -9,7 +9,7 @@ This patch adds a new section to the sidebar which shows all the other Radio Sta
 For a template file on how this works in VLC, take a peek at [Gensokyo Radio config](./Playlists/Gensokyo-Radio.xspf) which was earlier available but not anymore, so it also works as a timepiece and memory which can be revived. To make it work, just drag and drop it into the Playlists section of VLC whenever you open it or just double-click it in the stored folder. 
 
 # How to fix? 
-For starters, just cut or copy the file inside **Patch** dir and paste it inside a specific folder in the installation directory of VLC Media Player. Directories for different OS are given below: 
+For starters, just cut or copy the file inside `./Patch` dir and paste it inside a specific folder in the installation directory of VLC Media Player. Directories for different OS are given below: 
 
 1. **Windows**: `C:\Program Files (x86)\VideoLAN\VLC\lua\sd\`
 
