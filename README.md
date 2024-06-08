@@ -16,7 +16,7 @@ For starters, just cut or copy the file inside **Patch** dir and paste it inside
 Note that you will need Admin access to modify the directory. 
 
 2. **Linux**: `/usr/share/vlc/lua/sd`
-  - Note that you'd have to make the `sd` folder yourself via sudo.    
+    - Note that you'd have to make the `sd` folder yourself via sudo.    
 
 4. **MacOS**: `VLC.app/Contents/MacOS/share/lua/sd`
 
