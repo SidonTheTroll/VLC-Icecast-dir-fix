@@ -12,8 +12,7 @@ For a template file on how this works in VLC, take a peek at [Gensokyo Radio con
 For starters, just cut or copy the file inside `./Patch` dir and paste it inside a specific folder in the installation directory of VLC Media Player. Directories for different OS are given below: 
 
 1. **Windows**: `C:\Program Files (x86)\VideoLAN\VLC\lua\sd\`
-
-Note that you will need Admin access to modify the directory. 
+    - Note that you will need Admin access to modify the directory. 
 
 2. **Linux**: `/usr/share/vlc/lua/sd`
     - Note that you'd have to make the `sd` folder yourself via sudo.    
